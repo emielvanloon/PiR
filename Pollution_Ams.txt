@@ -1,0 +1,2 @@
+Location, PM2.5, PM10, O3, NO2, SO2, CO
+Amsterdam, 20, 11, 17, 19, 12, 19

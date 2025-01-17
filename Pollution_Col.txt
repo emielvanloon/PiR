@@ -1,0 +1,2 @@
+Location, PM2.5, PM10, O3, NO2, SO2, CO
+Columbia Falls, 55, 26, 25, 33, 12, 17

@@ -1,0 +1,2 @@
+Location, PM2.5, PM10, O3, NO2, SO2, CO
+Delhi, 189, 187, 21, 54, 14, 18
